@@ -6,3 +6,4 @@
 # @Version : $Id$
 
 test file
+how git stage works.
