@@ -1,9 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 # @Date    : 2017-05-24 15:47:14
-# @Author  : Kyle Liu (${email})
-# @Link    : ${link}
-# @Version : $Id$
+# @Author  : quhanchen
 
 import asyncio
 import os
